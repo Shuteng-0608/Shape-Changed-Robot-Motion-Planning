@@ -1,0 +1,3 @@
+# RobotPath.msg
+
+RobotState[] states
