@@ -10,7 +10,7 @@ Position (3, 5): Width = 1.67, Length = 2.33
 Position (4, 5): Width = 1.00, Length = 3.00  
 Position (4, 6): Width = 1.00, Length = 3.00  
 [INFO] [1736862126.442906]: states: 
-  - 
+  -  
     header: 
       seq: 0
       stamp: 
@@ -28,8 +28,8 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "3.00"
-      width: "1.00"
-  - 
+      width: "1.00"  
+  -  
     header: 
       seq: 0
       stamp: 
@@ -47,7 +47,7 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "3.00"
-      width: "1.00"
+      width: "1.00"  
   - 
     header: 
       seq: 0
@@ -66,7 +66,7 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "2.33"
-      width: "1.67"
+      width: "1.67"  
   - 
     header: 
       seq: 0
@@ -85,7 +85,7 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "3.00"
-      width: "1.00"
+      width: "1.00"  
   - 
     header: 
       seq: 0
@@ -104,7 +104,7 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "2.33"
-      width: "1.67"
+      width: "1.67"  
   - 
     header: 
       seq: 0
@@ -123,7 +123,7 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "2.33"
-      width: "1.67"
+      width: "1.67"  
   - 
     header: 
       seq: 0
@@ -142,7 +142,7 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "3.00"
-      width: "1.00"
+      width: "1.00"  
   - 
     header: 
       seq: 0
@@ -161,7 +161,7 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "2.33"
-      width: "1.67"
+      width: "1.67"  
   - 
     header: 
       seq: 0
@@ -180,7 +180,7 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "2.33"
-      width: "1.67"
+      width: "1.67"  
   - 
     header: 
       seq: 0
@@ -199,7 +199,7 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "3.00"
-      width: "1.00"
+      width: "1.00"  
   - 
     header: 
       seq: 0
@@ -218,4 +218,4 @@ Position (4, 6): Width = 1.00, Length = 3.00
       w: 1
     dimension: 
       length: "3.00"
-      width: "1.00"
+      width: "1.00"  
